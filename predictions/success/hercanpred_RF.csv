@@ -1,0 +1,370 @@
+gene_var	class	HCPrf	Review status	SIFT	Polyphen2 HDIV	Polyphen2 HVAR	LRT	MutationTaster	MutationAssessor	FATHMM	PROVEAN	MetaSVM	MetaLR	M-CAP	fathmm-MKL
+BAP1_P12A	1	1	criteria provided, single submitter	0	1	1	1	1	1	0	1	0	0	1	1
+NF1_R997K	1	1	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	0	0	0	0	0		1
+NF1_G922S	1	1	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	1	1	1	1	1	1	1
+NF1_D1217E	1	1	criteria provided, single submitter	0	1	1	1	1	0	1	1	0	0	1	1
+NF1_L1196V	1	1	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	1	0	0	0	0	1	1
+NF1_L1104R	1	1	criteria provided, single submitter	0	1	1	1	1	1	0	1	0	0	1	1
+NF1_K615N	1	1	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	0	0	1	0	0		1
+NF1_V1001E	1	1	criteria provided, single submitter	0	0	0	1	1	0	0	0	0	0	1	1
+PTEN_N12T	1	1	criteria provided, single submitter	0	0	0	1	1	1	1	1	1	1	1	1
+VHL_S111N	1	1	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	1	1	1	1
+MLH1_S556I	1	1	reviewed by expert panel	0	1	1	1	1	1	1	1	0	0		1
+PTEN_R15K	1	1	reviewed by expert panel	1	0	0	1	1	1	1	0	1	1	1	1
+PTEN_M198K	1	1	criteria provided, single submitter	1	0	0	1	1	1	1	1	0	1	1	1
+TSC2_V1673G	1	1	criteria provided, single submitter	1	0	0	1	1	1	1	1	1	1	1	1
+TSC2_P1709R	1	1	criteria provided, single submitter	1	0	1	1	1	1	1	1	1	1	1	1
+XPC_M1T	1	1	criteria provided, single submitter	1	0	0	1	1		0	0	0	0	1	0
+XPC_M1L	1	1	criteria provided, single submitter	1	0	0	1	1		0	0	0	0		1
+MRE11_M1I	1	1	criteria provided, single submitter	1	0	0	0	1		0	0	0	0	1	1
+BAP1_M1I	1	1	criteria provided, multiple submitters, no conflicts	1	1	0	1	1		0	0	0	0	1	0
+BRCA1_R71K	1	1	criteria provided, multiple submitters, no conflicts	1	1	0	1	1	1	1	0	1	1	1	1
+CDK4_R24C	1	1	criteria provided, multiple submitters, no conflicts	1	1	0	1	1	1	0	1	0	0	1	1
+CDKN2A_P48T	1	1	criteria provided, multiple submitters, no conflicts	1	1	0		1	1	1	1	1	1	1	0
+NF1_K354R	1	1	criteria provided, single submitter	1	1	0	1	1	1	0	0	0	0	1	1
+FANCA_T1131I	1	1	criteria provided, single submitter	1	1	0	1	1	1	1	1	1	1	1	1
+FH_G397R	1	1	criteria provided, multiple submitters, no conflicts	1	1	0	1	1	1	1	1	1	1	1	1
+FH_D425E	1	1	criteria provided, single submitter	1	1	0	1	1	1	1	1	1	1	1	1
+PTEN_F200V	1	1	criteria provided, single submitter	1	1	0	1	1	1	1	0	0	1	1	1
+PTEN_P246L	1	1	reviewed by expert panel	1	1	0	1	1	1	1	1	1	1	1	1
+VHL_Q164H	1	1	criteria provided, multiple submitters, no conflicts	1	1	0	1	1	0	1	1	1	1	1	1
+XRCC2_M1T	1	1	criteria provided, single submitter	1	1	0	1	1		0	0	0	0	1	1
+BRCA1_G1770V	1	1	reviewed by expert panel	1	1	1	0	1	1	1	0	1	1	1	1
+ERCC2_R666W	1	1	criteria provided, single submitter	1	1	1	0	1	1	1	1	1	1	1	1
+FANCA_M1K	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	0	1		1	0	1	1	1	1
+FANCA_M1R	1	1	criteria provided, single submitter	1	1	1	0	1		1	0	1	1	1	1
+FANCA_R1055G	1	1	criteria provided, single submitter	1	1	1	0	0	1	1	1	1	1	1	1
+FANCA_R1055Q	1	1	criteria provided, single submitter	1	1	1	0	0	1	1	1	1	1	1	1
+FANCA_R1117G	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	0	1	1	1	1	1	1		1
+FANCA_R435C	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	0	1	1	1	1	1	1	1	1
+FANCA_R1080Q	1	1	criteria provided, single submitter	1	1	1	0	1	1	1	1	1	1	1	1
+MSH2_V200D	1	1	reviewed by expert panel	1	1	1	0	1	1	1	1	1	1	1	1
+MEN1_L22R	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	0	1	1	1	1	1	1	1	1
+TSC2_L1717P	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	0	1	1	1	1	1	1	1	1
+TP53_R110L	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	0	0	1	1	1	1	1	1	0
+CDKN2A_R99P	1	1	criteria provided, multiple submitters, no conflicts	1	1	1		0		0	1	0	0	1	0
+FANCA_R874T	1	1	criteria provided, single submitter	1	1	1	1	0	1	1	1	1	1	1	1
+VHL_S111C	1	1	criteria provided, single submitter	1	1	1	1	0	0	1	1	1	1	1	1
+TP53_T284P	1	1	criteria provided, single submitter	1	1	1	1	0	1	1	1	1	1	1	1
+NF1_T841P	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	1	1	1	1	1	1
+NF1_L847P	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	0	1	0	0	1	1
+NF1_L844F	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	0	1	0	0	1	1
+NF1_G848R	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	0	1	0	0	1	1
+FH_R51Q	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	1	1	1	1	1	1
+FLCN_W553R	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	1	1	1	1	1	1
+RET_A877P	1	1	criteria provided, single submitter	1	1	1	1	1	0	1	1	0	0	1	1
+VHL_P86A	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	1	1	1	1	1	1
+VHL_V166A	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	1	1	1	1	1	1
+FANCC_L554P	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0	1	1
+ATM_L1046P	1	1	reviewed by expert panel	1	1	1	1	1	1	0	1	1	1	1	1
+BAP1_M1T	1	1	criteria provided, single submitter	1	1	1	1	1		0	1	0	0	1	0
+BAP1_W202R	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	1	0	1	1
+BLM_C1055S	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	1	1	1	1
+BRCA1_T1691R	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	0	1	1	1	1
+BRCA1_D1692Y	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	0	1	1	1	1
+CDH1_G278R	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	1	1		1
+CDKN2A_P38R	1	1	criteria provided, single submitter	1	1	1		1	1	0	1	1	1	1	1
+ERCC4_R689S	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	1	0	1	1
+ERCC4_R589W	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	1	1	1	1
+NF1_F1193L	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_T1191R	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	1	1	1	1
+NF1_N1156K	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	0
+NF1_N1156T	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_A545E	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	1	1	1	1
+NF1_W784C	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_W784R	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_W777S	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_T780K	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_M1214R	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	1	1	1	1
+NF1_V1182L	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	0	0	0	1	1
+NF1_A1148E	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_L529P	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	1	1	1	1
+NF1_L578P	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	1	1	1	1
+NF1_L43P	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_L43Q	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_L695P	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	1	1	1	1
+NF1_A330V	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_M1180R	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_C93Y	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	1	1	1	1
+NF1_E41V	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0	1	1
+NF1_G1168R	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0	1	1
+RET_C634F	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	1	1	1	1
+RB1_C278Y	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	1	1	1	1
+MEN1_G149V	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	0	0	0	1	1
+POLE_N363K	1	1	criteria provided, single submitter	1	1	1	1	1	1	0	1	0	0	1	0
+RAD51C_C135Y	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0		1
+RAD51C_L138F	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0	1	1
+BRCA1_W1718C	1	1	criteria provided, single submitter	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C24G	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C27Y	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C27F	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C47Y	1	1	reviewed by expert panel	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C61S	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C61G	1	1	reviewed by expert panel	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C39G	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C39W	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_C39R	1	1	reviewed by expert panel	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_D1739G	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_D1739H	1	1	criteria provided, single submitter	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_W1837G	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_P1749R	1	1	criteria provided, single submitter	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_S1722F	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_H1686R	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_G1738E	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+MSH6_M1I	1	1	criteria provided, single submitter	1	1	1	1	1		1	0	1	1	1	1
+VHL_S80N	1	1	criteria provided, single submitter	1	1	1	1	1	1	1	0	1	1	1	1
+VHL_V130L	1	1	criteria provided, multiple submitters, no conflicts		1	1	1	1	1	1	0	1	1	1	1
+MEN1_M1V	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1		1	0	1	1		1
+MLH1_M1K	1	1	reviewed by expert panel	1	1	1	1	1		1	0	1	1	1	1
+TP53_V272L	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+TP53_R337H	1	1	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+AXIN2_S390G	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	1	1	0	1	0	0	0	1	1
+AXIN2_V539M	0	0	criteria provided, multiple submitters, no conflicts	1	1	0	1	1	1	0	0	0	0		1
+ERCC5_R959S	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	1	1	1	1	1	0	0		1
+ERCC5_G1053R	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	0	1	1	0	0	0	0		1
+ERCC5_A376V	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	0	0	0	0	0	0	0	0	0
+BRCA1_R1076S	0	0	criteria provided, single submitter	1	1	0	0	0	1	1	1	0	1	1	1
+BRCA1_P1469S	0	0	criteria provided, single submitter	1	1	1		1		1	0	0	0	0	1
+BRCA1_T967S	0	0	criteria provided, single submitter	1	0	0	0	0	1	0	0	0	0	1	0
+BRCA1_N376S	0	0	criteria provided, single submitter	1	0	0	0	1	1	1	1	1	1	1	1
+BRCA1_E1013K	0	0	criteria provided, single submitter	1	0	0	0	0	0	0	0	0	0	1	0
+BRCA1_E797K	0	0	criteria provided, single submitter	1	0	0	0	0	0	0	0	0	0	1	0
+BRCA1_T276R	0	0	reviewed by expert panel	1	1	0	1	1	1	1	1	1	1	1	1
+BRCA1_S1512I	0	0	reviewed by expert panel	1	1	0	0	0	0	1	0	0	1	1	0
+BRCA1_S316G	0	0	reviewed by expert panel	1	1	0	1	1	1	1	1	1	1	1	1
+BRCA1_D642H	0	0	reviewed by expert panel	1	1	1	0	1	1	1	1	1	1	1	1
+BRCA1_S1024R	0	0	criteria provided, single submitter	1	0	0	0	0	1	0	1	0	1	1	0
+BRCA1_T1675I	0	0	reviewed by expert panel	1	0	0	0	0	0	0	0	0	0	1	0
+BRCA1_V772A	0	0	reviewed by expert panel	1	0	0	0	0	1	1	1	0	1	1	0
+BRCA1_S157P	0	0	criteria provided, single submitter	1	1	1	0	1	1	1	0	1	1	1	1
+BRCA1_L1223F	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_A1277P	0	0	criteria provided, single submitter	1	0	0	0	0	1	1	0	0	0	1	0
+BRCA1_R133C	0	0	reviewed by expert panel	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_S784L	0	0	reviewed by expert panel	1	1	1	1	1	1	1	1	1	1	1	1
+BRCA1_P1771L	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_P1771R	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA1_K556Q	0	0	criteria provided, single submitter	1	0	0	0	0	1	1	0	1	1	1	0
+BRCA1_D1757Y	0	0	criteria provided, single submitter	1	1	1	0	1	0	0	0	1	1	1	1
+BRCA1_D749H	0	0	criteria provided, single submitter	1	1	1	0	1	1	0	1	0	1	1	0
+BRCA1_Q804H	0	0	reviewed by expert panel	1	0	0	0	0	1	0	1	0	0	1	0
+BRCA1_D825V	0	0	criteria provided, single submitter	1	0	0	0	0	1	0	1	0	0	1	0
+BRCA1_K862E	0	0	reviewed by expert panel	1	1	0	0	1	1	1	0	1	1	1	1
+BRCA1_K355R	0	0	criteria provided, single submitter	1	1	0	0	0	1	1	0	0	0	1	1
+BRCA1_Q356R	0	0	reviewed by expert panel	1	1	1	0	0	1	1	1	0	0		1
+BRCA1_L512F	0	0	reviewed by expert panel	1	1	1	0	1	1	1	1	1	1	1	1
+BRCA1_Y655D	0	0	criteria provided, single submitter	1	0	0	0	0	0	0	0	0	0	1	0
+BRCA1_K1109N	0	0	reviewed by expert panel	1	1	1	0	0	1	0	1	0	1	1	0
+BRCA1_K1606E	0	0	reviewed by expert panel	1	0	0	0	0	0	1	0	0	0	1	0
+BRCA1_V1804D	0	0	reviewed by expert panel	1	0	0	0	1		0	0	0	0		0
+BRCA2_T582P	0	0	reviewed by expert panel	1	1	1	0	0	0	0	0	0	0	1	1
+BRCA2_A737S	0	0	criteria provided, single submitter	1	0	0	0	0	1	0	0	0	0	1	0
+BRCA2_E394A	0	0	reviewed by expert panel	1	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_D596H	0	0	reviewed by expert panel	1	1	1	0	0	1	0	0	0	0	1	1
+BRCA2_D935N	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	0	0	1	0	1	0	0	1	0
+BRCA2_D806H	0	0	reviewed by expert panel	1	1	0	0	0	0	0	0	0	0	1	0
+BRCA2_V1306I	0	0	reviewed by expert panel	1	0	0	0	0	1	0	0	0	0	0	1
+BRCA2_S1341P	0	0	criteria provided, single submitter	1	1	1	0	0	1	0	1	0	0	1	0
+BRCA2_Q321H	0	0	criteria provided, single submitter	1	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_S984R	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	0	1	1	1	1
+BRCA2_K604E	0	0	reviewed by expert panel	1	0	0	0	0	0	0	0	0	0	1	0
+CDH1_T38K	0	0	reviewed by expert panel	1	1	1	0	0	1	0	0	0	0	1	1
+CDKN2A_R144C	0	0	criteria provided, multiple submitters, no conflicts	1	0	0		0	1	0	0	0	0	0	0
+ERCC4_E875G	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	1	0	0		1
+NF1_T408A	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	0	0	0	0	1	1
+FANCA_Q1099H	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	0	0	0	1	0	0	1	1	0
+FANCA_H305Y	0	0	criteria provided, single submitter	1	1	0	0	0	0	0	1	0	0	0	0
+MSH6_A175V	0	0	criteria provided, single submitter	1	1	0	1	1	0	1	0	0	0	1	1
+MSH6_R922Q	0	0	reviewed by expert panel	1	1	0	1	1	0	1	0	1	1	1	1
+FH_P18L	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	0	0	0	1	0	1	1		0
+GALNT12_R9G	0	0	criteria provided, multiple submitters, no conflicts	1	0	0		0	0	0	0	0	0	1	0
+MSH2_N127S	0	0	reviewed by expert panel	1	1	1	1	1	1	1	1	0	0		1
+MSH2_R21G	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	1	1	1	1	1
+MSH2_D283Y	0	0	criteria provided, single submitter	1	1	1	0	1	1	1	1	1	1	1	1
+MSH2_A123V	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	1	1	1	1	1
+MSH2_V367I	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	1	1	0	1	0	1	1	1	1
+MSH2_V684M	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	1	1	1	1	1
+MSH2_E647Q	0	0	criteria provided, multiple submitters, no conflicts	1	1	0	1	1	0	1	0	1	1	1	1
+MSH2_E378A	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	1	1	1	1	1
+RB1_I831V	0	0	criteria provided, multiple submitters, no conflicts	1	1	0	1	1	0	1	0	0	0	1	1
+RB1_E884D	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	1	0	1	1	1	1
+MET_M362T	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	0	1	0	0	0	0	0		1
+MLH1_A282G	0	0	reviewed by expert panel	1	1	1	1	1	0	1	1	0	0	1	1
+TSC2_P579A	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	1	1	1	1	1
+TSC2_T1623S	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	1	1	1	1	1
+TSC2_G1654S	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	1	1	1	1	1	1
+TSC2_S235N	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	1	1	0	1	0	0	0	1	1
+TSC2_V1673L	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	1	0	1	1	0	1	1	1	1
+TSC2_A583T	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	1	1	1	1	1
+TSC2_T1661N	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	1	1	1	1	1
+TSC2_R976W	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	1	1	1	1	1
+TSC2_R1793Q	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+TSC2_S1799L	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+TSC2_V1711M	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	0	1	0	1	0	1	1	1	1
+TSC2_P330L	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	0	1	0	0	1	1
+TSC2_P1771A	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	0	0	0	1	0	0	0	1	0
+TSC2_R1125Q	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+TSC2_R1329H	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	0	0	0	1	0	0	0		0
+TSC2_R1729H	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	1	1	1	1	1
+TSC2_S1507Y	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	0	1	1	1	1	1	1
+TSC2_D1126V	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	0	1	0	1	0	1	1	1	1
+TSC2_L512V	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	0	0	1	1	1	1
+PALB2_E1083D	0	0	reviewed by expert panel	1	1	1	0	0	0	0	0	0	0	0	0
+POLE_N1396S	0	0	criteria provided, multiple submitters, no conflicts	1	0	0	1	1	1	0	1	0	0		1
+XPC_K928Q	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	0	0	1	0	0	0	0	0	0
+TP53_P13A	0	0	criteria provided, single submitter	1	1	1	1	1	1	1	1	1	1	1	1
+TSC1_R288C	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+TSC1_R1097H	0	0	criteria provided, multiple submitters, no conflicts	1	1	1	1	1	1	1	0	1	1	1	1
+FANCC_A325T	0	0	criteria provided, multiple submitters, no conflicts	0	1	1	0	1	1	0	0	0	0		1
+AXIN2_T511M	0	0	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	0	0	0	0	0		1
+BLM_E140G	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	0	0	1	0	0	0	0		1
+BRCA1_A1584S	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	0	0	0	1	0	0	1	1	0
+BRCA1_S1218C	0	0	criteria provided, single submitter	0	1	1	1	1	1	0	1	0	0	1	1
+BRCA1_A622V	0	0	reviewed by expert panel	0	1	0	0	0	1	0	1	0	1	1	0
+BRCA1_S264C	0	0	criteria provided, single submitter	0	1	0	0	1	0	1	0	0	1	1	0
+BRCA1_S264N	0	0	criteria provided, single submitter	0	1	0	0	1	0	1	0	0	0	1	0
+BRCA1_C805R	0	0	criteria provided, single submitter	0	1	0	0	0	1	0	1	0	0	1	0
+BRCA2_V290L	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	0	0	0	0	0	0	0	1	0
+BRCA2_R18H	0	0	reviewed by expert panel	0	1	0	0	0	0	0	0	0	0	1	0
+CDH1_L711V	0	0	reviewed by expert panel	0	1	0	0	1	1	0	0	0	0	0	1
+CHEK2_P85L	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	1	1	0	0	0	1	1	0	1
+MSH3_A65P	0	0	criteria provided, multiple submitters, no conflicts	0	1	1		1	0	1	0	0	0	1	1
+MSH3_S119F	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	0	0	0	1	1	0	0		0
+EPCAM_T172M	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	0	0	1	0	0	0	0		0
+ERCC3_K12N	0	0	criteria provided, single submitter	0	1	1	1	1	0	0	0	0	0	1	1
+FANCA_P667A	0	0	criteria provided, single submitter	0	1	0	0	0	1	1	1	0	0	1	1
+FANCA_S858R	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	0	0	1	1	0	0	0		0
+MSH2_Q183R	0	0	criteria provided, single submitter	0	1	1	1	1	0	1	0	1	1	1	1
+MSH2_K82E	0	0	criteria provided, single submitter	0	1	1	1	1	1	1	0	1	1	1	1
+TSC2_V339I	0	0	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	0	0	0	0	0	1	1
+TSC2_R1138Q	0	0	criteria provided, multiple submitters, no conflicts	0	1	1	0	1	1	1	0	1	1	1	1
+TSC2_S1097N	0	0	criteria provided, single submitter	0	1	1	1	1	1	1	0	1	1	1	1
+TSC2_L663F	0	0	criteria provided, multiple submitters, no conflicts	0	1	1	0	0	0	1	0	0	1	1	1
+TSC2_G1099R	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	0	0	0	1	0	0	0	1	0
+TSC2_D1636N	0	0	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	0	1	0	1	1	1	1
+TP53_P8R	0	0	criteria provided, single submitter	0	1	1	0	0	0	1	0	1	1	1	0
+TP53_L35F	0	0	reviewed by expert panel	0	1	0		0	0	1	0	1	1	1	0
+TP53_L32V	0	0	criteria provided, single submitter	0	1	1	0	1	0	1	0	1	1	1	1
+TP53_A84V	0	0	criteria provided, single submitter	0	1	1	0	0	0	1	0	1	1	1	0
+TSC1_P56S	0	0	criteria provided, multiple submitters, no conflicts	0	1	0	1	1	0	1	0	0	0	1	1
+TSC1_N198S	0	0	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	1	1	1	1	1	1	1
+TSC1_P366A	0	0	criteria provided, single submitter	0	1	1	1	1	1	1	0	1	1	1	1
+MRE11_R594G	0	0	criteria provided, multiple submitters, no conflicts	0	1	1	1	1	1	0	0	0	0		1
+PMS2_D60E	0	0	reviewed by expert panel	0	0	0	1	1	0	1	0	0	1	1	1
+APC_S89G	0	0	reviewed by expert panel	0	0	0	1	0	0	0	0	0	0	1	1
+APC_D1083E	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	0	0	1	0	0	0	1	1
+ERCC4_I873V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	0	0	0	0		1
+NF1_N935D	0	0	criteria provided, single submitter	0	0	0	1	1	0	0	0	0	0	1	1
+MSH6_P1073S	0	0	reviewed by expert panel	0	0	0	1	1	1	1	0	0	1	1	1
+MSH6_E171Q	0	0	criteria provided, single submitter	0	0	0	1	1	0	0	0	0	0	0	1
+MSH6_I1054F	0	0	reviewed by expert panel	0	0	0	1	1	0	1	1	0	1	1	1
+FH_V428A	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	1	0	0	1	1	1
+FLCN_K342N	0	0	criteria provided, single submitter	0	0	0	1	0	0	1	0	0	1	1	0
+MSH2_Q61R	0	0	criteria provided, single submitter	0	0	0	1	1	0	1	0	0	1	1	1
+MSH2_K567E	0	0	criteria provided, single submitter	0	0	0	1	1	0	1	0	1	1	1	1
+PTCH1_I1108V	0	0	criteria provided, single submitter	0	0	0	1	1	0	1	0	1	1	1	1
+PTCH1_A1115V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	1	0	0	0	1	1
+RB1_T377S	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	1	0	0	0	1	1
+TSC2_M286V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	0	0	0	0		1
+POLE_A31S	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	0	0	0	0		1
+POLE_A252V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	0	0	0	0		1
+SMAD4_Q249P	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	0	0	0	0	1	1
+SMAD4_Q249H	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	1	1	0	0	0	0	0	1	1
+TSC1_H59L	0	0	criteria provided, single submitter	0	0	0	1	1	1	1	1	0	0	1	1
+PMS2_S238N	0	0	criteria provided, single submitter	0	0	0	0	1	0	1	0	0	0	0	0
+BARD1_Q11H	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	0	0	0	0		0
+ERCC5_G1080R	0	0	criteria provided, single submitter	0	0	0	0	1	0	0	0	0	0		0
+BRCA1_E962K	0	0	reviewed by expert panel	0	0	0	0	1	0	0	0	0	0	1	0
+BRCA1_K1183R	0	0	reviewed by expert panel	0	0	0	0	1	0	0	0	0	0		0
+BRCA1_H1402Y	0	0	reviewed by expert panel	0	0	0	0	1	0	1	0	0	0	1	1
+EPCAM_N31K	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	0	0	0	0	0	1
+ERCC2_E745Q	0	0	criteria provided, single submitter	0	0	0	0	1	0	0	0	0	0	1	0
+NF1_F66S	0	0	criteria provided, single submitter	0	0	0	0	1	0	0	0	0	0	0	0
+FANCA_T1328A	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	0	0		0
+MSH6_S341A	0	0	criteria provided, single submitter	0	0	0	0	1	0	1	0	0	0	1	1
+PTCH1_G31R	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	0	0	1	0
+NBN_L68I	0	0	criteria provided, single submitter	0	0	0	0	1	0	0	0	0	0	0	0
+RB1_E440K	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	1	1	0	1	1	0	1
+RB1_L229F	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	0	1	1	1
+TSC2_N1522S	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	1	1	1	1
+TSC2_A1479V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	0	1	1	1
+TSC2_K351R	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	0	0	0	0	1	1
+PALB2_Q559R	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	0	0	0	0		0
+RAD51D_R165Q	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	0	0	0	0		0
+TSC1_T899S	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	0	0	0	0	0	0
+TSC1_M322T	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	0	0		0
+TSC1_A659V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	0	1	1	1
+TSC1_I97V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	0	0	1	0
+TSC1_M646V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	1	0	0	0	0	0
+DDB2_V193I	0	0	criteria provided, single submitter	0	0	0	0	1	1	0	0	0	0	0	1
+RAD50_I94L	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	0	0	0	0	0	0
+RAD50_I94V	0	0	criteria provided, single submitter	0	0	0	0	1	0	0	0	0	0	0	0
+RAD50_K543R	0	0	criteria provided, single submitter		0	0	0	1	0			0	0	0	1
+XRCC2_R188H	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	1	0	0	0	0	0		1
+BRCA1_N473S	0	0	reviewed by expert panel	0	0	0	0	0	1	1	1	1	1	1	0
+BRCA1_H971R	0	0	reviewed by expert panel	0	0	0	0	0	1	0	1	0	0	1	0
+BRCA2_A622V	0	0	reviewed by expert panel	0	0	0	0	0	1	0	0	0	0	1	0
+BRCA2_V875L	0	0	criteria provided, single submitter	0	0	0	0	0	1	0	0	0	0	1	0
+BRCA2_I1364L	0	0	reviewed by expert panel	0	0	0	0	0	1	0	0	0	0		0
+BRCA2_C1044W	0	0	criteria provided, single submitter	0	0	0	0	0	1	0	1	0	0	1	0
+BRCA2_P40A	0	0	criteria provided, single submitter	0	0	0	0	0	1	0	0	0	0	0	0
+BRCA2_K1239E	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	1	0	1	0	0	1	0
+APC_A239P	0	0	reviewed by expert panel	0	0	0	0	0	0	1	0	0	1	1	1
+APC_G1203V	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	0	0	1	1
+BRCA1_M1628T	0	0	reviewed by expert panel	0	0	0	0	0	0	1	0	0	0		0
+BRCA1_D1546N	0	0	reviewed by expert panel	0	0	0	0	0	0	1	0	0	0	1	0
+MSH3_E523K	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0		0
+MSH3_A70T	0	0	criteria provided, single submitter	0	0	0		0	0	1	0	0	0	1	0
+MSH3_H1023Q	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	0	0	0	0
+FANCA_V1089I	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+FANCA_R1409Q	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	0	0
+MSH6_S65L	0	0	reviewed by expert panel	0	0	0		0	0	1	0	0	0	1	0
+MSH6_G54A	0	0	reviewed by expert panel	0	0	0	0	0	0	1	0	0	0	1	0
+FH_A4T	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	1	1	1	0
+MSH2_A623S	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	0	0	1	1
+MSH2_M866V	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	0	1	0	0
+MSH2_K773E	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	0	0	1	1
+PTCH1_V690I	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	1
+PTCH1_V1361M	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+RET_E208D	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+RB1_A589V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	0	1
+RB1_A626T	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	1	0	1
+RB1_T633I	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	1	0	1
+RB1_M386V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	0	1
+TSC2_P674S	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+TSC2_P1265S	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	1
+TSC2_A551S	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	0	0	1	0
+TSC2_A1429S	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0		0
+TSC2_M649V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+TSC2_A1164T	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+TSC2_A1349T	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+TSC2_S1431L	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+TSC2_H798Y	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	1	0
+TP53_R110H	0	0	reviewed by expert panel	0	0	0	0	0	0	1	0	1	1	1	0
+TP53_V10L	0	0	reviewed by expert panel	0	0	0	0	0	0	1	0	1	1	1	0
+TP53_P8L	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	1	1	1	0
+TP53_F385L	0	0	criteria provided, single submitter	0	0	0	0	0	0	1	0	1	1	0	0
+TSC1_A523P	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	1	0	0	0	0	0
+BRCA1_H971N	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	1	0	0	1	0
+BRCA1_G792R	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	0	1	0	0	0	0
+BRCA2_P740L	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	1	0	0	0	0
+RET_K24E	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	0	0	1	1	0
+TSC1_F285V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	0	0	0	1	1	1
+BRCA1_P727L	0	0	reviewed by expert panel	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA1_K654E	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA1_Y655F	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_P375S	0	0	reviewed by expert panel	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_N108H	0	0	reviewed by expert panel	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_A487S	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_C341F	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_D381N	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_S1075N	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	0	0	0	1	0
+BRCA2_G602R	0	0	reviewed by expert panel	0	0	0	0	0	0	0	0	0	0	1	1
+BRIP1_L892I	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	0	0	0	1	0
+CDH1_R63Q	0	0	reviewed by expert panel	0	0	0	0	0	0	0	0	0	0	1	0
+CDH1_I96V	0	0	reviewed by expert panel	0	0	0	0	0	0	0	0	0	0	1	0
+FANCA_D252N	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	0	0	0	0	1	0
+TSC2_D162N	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	0	0	0	0	1	1
+TSC1_G1108S	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	0	0	0	0	1	0
+CDH1_D433N	0	0	reviewed by expert panel	0	0	0	0	0	0	0	0	0	0	0	1
+TSC2_R381K	0	0	criteria provided, single submitter	0	0	0	0	0	0	0	0	0	0	0	1
+XPA_M256V	0	0	criteria provided, multiple submitters, no conflicts	0	0	0	0	0	0	0	0	0	0		1
